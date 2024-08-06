@@ -6,3 +6,7 @@ Trying out Github and getting used to it.
 Successfully installed git and cloned the repo. Now I'm able to update the repo offline and test it.
 
 Tested offline commits and tried pushing the commits and it does work.
+
+## Day2 
+
+Pulled latest changes to local. Cleaned up my profile.
